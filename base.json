@@ -1,0 +1,31 @@
+{
+    "Conos": [
+
+        {
+            "Nombre":"Choco Paradise",
+            "sabor": "Chocolate",
+            "topping": "Fresa",
+            "precio": "8500"
+
+        },
+        {
+            "Nombre":"Party Avocado",
+            "sabor": "Vainilla",
+            "topping": "Aguacate",
+            "precio": "6000"
+
+        }, {
+            "Nombre":"Strawny",
+            "sabor": "Fresa",
+            "topping": "Chocolate blanco",
+            "precio": "8500"
+        },{
+            "Nombre":"Vainilla Lovers",
+            "sabor": "Vainilla",
+            "topping": "Fresa",
+            "precio":"2000"
+        }
+
+
+    ]
+}
