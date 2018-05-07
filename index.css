@@ -1,5 +1,40 @@
+body {
+  color: aqua;
+}
+
+.productos {
+  color: tomato;
+  position: absolute;
+  margin-top: 30px;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 10%;
+}
+
 .logo {
-  width: 16%;
-  height: 20%;
+  margin-top: 15PX;
+  margin-left: 15PX;
+  float: left;
+  width: 80%;
+  height: 80%;
+}
+
+.filtro {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 190px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.filtro h3 {
+  color: darkgrey;
+  font-weight: 900;
+  letter-spacing: 5mm;
+}
+
+.filtro .cate {
+  font-size: 12px;
+  color: darkgrey;
 }
 /*# sourceMappingURL=index.css.map */
